@@ -1,9 +1,10 @@
 .headerlayout {
   color: #ffffff;
-  font-size: 25px;
+  font-size: 15px;
   list-style-type: none;
   display: block;
-  font-family: Italiana;
+  font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 5px;
 }
 
 
@@ -11,7 +12,7 @@
 
   color: white;
   font-size: 30px;
-  font-family: Italiana;
+  font-family: 'Cormorant Garamond', serif;
   list-style-type: none;
   display: block;
   margin: 0 auto;
@@ -25,6 +26,7 @@
   width: 100%;
   z-index:50;
 
+  letter-spacing: 2px;
 }
 
 .leftblackbox {
@@ -37,6 +39,39 @@
 
 
 }
+
+
+.blackbox {
+  background-color: black;
+  padding: 65px;
+  width: 100%;
+  text-align: center;
+  display: block;
+  box-sizing: border-box;
+
+}
+
+
+.textstyle {
+  color: white;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 25px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
