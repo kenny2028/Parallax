@@ -1,0 +1,49 @@
+.headerlayout {
+  color: #ffffff;
+  font-size: 25px;
+  list-style-type: none;
+  display: block;
+  font-family: Italiana;
+}
+
+
+.titlebox {
+
+  color: white;
+  font-size: 30px;
+  font-family: Italiana;
+  list-style-type: none;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  background-color: transparent;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  z-index:50;
+
+}
+
+.leftblackbox {
+
+  background-color: black;
+  width: 80%;
+  display: block;
+  padding: 15px;
+
+
+
+}
+
+
+
+.footerlayout{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Knewave;
+  color: #ffffff;
+  font-size: 10px;
+}

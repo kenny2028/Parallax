@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Italiana);
+
+body { background: $bg
+ }
+
+
+ .fixedheader {
+   position: fixed;
+   left: 0;
+   top: 0;
+   width: 100%;
+   background-color: black;
+   color: black;
+   padding-left: 50px;
+   padding-right: 50px;
+   box-shadow: 0 0 500px black;
+   z-index:100;
+ }
