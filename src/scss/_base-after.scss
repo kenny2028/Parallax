@@ -51,18 +51,57 @@
 
 }
 
+.whitecontentbox {
+  background-color: white;
+  padding: 65px;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box
+}
+
+
+.leftblackbox2 {
+  padding: 45px;
+  background-color: black;
+  width: 75%;
+  text-align: center;
+  display: block;
+  box-sizing: border-box;
+  position: absolute;
+  left: 0px;
+}
+
+.spacewrapper {
+  background-color: transparent;
+  padding: 100px;
+}
+
+.rightwhitebox {
+
+  padding: 45px;
+  background-color: white;
+  width: 75%;
+  text-align: center;
+  display: block;
+  box-sizing: border-box;
+  position: absolute;
+  right: 0px;
+}
+
 
 .textstyle {
   color: white;
   font-family: 'Cormorant Garamond', serif;
   font-size: 25px;
-
-
-
 }
 
 
+.textstyle2 {
+  color: black;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 25px;
 
+}
 
 
 
